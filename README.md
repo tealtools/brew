@@ -1,10 +1,10 @@
-# Tealtools Tap
+# Teal Tools Homebrew Tap
 
 ## How do I install these formulae?
 
-`brew install tealtools/tap/<formula>`
+`brew install tealtools/brew/<formula>`
 
-Or `brew tap tealtools/tap` and then `brew install <formula>`.
+Or `brew tap tealtools/brew` and then `brew install <formula>`.
 
 ## Documentation
 
